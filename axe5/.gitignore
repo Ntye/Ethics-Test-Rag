@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# FAISS index
+faiss_index_mistral/
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# dotenv
+.env
