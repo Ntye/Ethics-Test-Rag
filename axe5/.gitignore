@@ -7,8 +7,9 @@ __pycache__/
 env/
 venv/
 
-# FAISS index
-faiss_index_mistral/
+
+## FAISS index
+#faiss_index_mistral/
 
 # Log files
 *.log
