@@ -1,0 +1,10 @@
+langchain==0.1.16
+langchain-community==0.0.38
+langchain-openai
+openai
+faiss-cpu
+python-dotenv
+Flask
+langchain-mistralai
+sentence-transformers
+gunicorn
